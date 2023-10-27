@@ -2,7 +2,7 @@ package com.practice.everydayprogram;
 
 import java.util.HashMap;
 
-public class CountOccurenceofWordsinString {
+public class CountOccurenceofWordsinStringDay5 {
 
     public static void main(String[] args) {
         String str ="Nidhi Kachhadiya Ravi Jiyani Nidhi";

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-public class FindDuplicateCharactersInString {
+public class FindDuplicateCharactersInStringDay8 {
     public static void main(String[] args) {
         String str="NidhiRaviKachhadiyaJiyani";
         findDuplicateChar(str);
